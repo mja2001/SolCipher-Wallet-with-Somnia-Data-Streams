@@ -1,5 +1,3 @@
-# SolCipher-Wallet-with-Somnia-Data-Streams
-SolCipher Wallet (a privacy-focused, decentralized file-sharing dApp using client-side encryption, IPFS storage, and Somnia Data Streams for real-time on-chain metadata)
 # SolCipher-Somnia
 
 A decentralized, encrypted file-sharing dApp rebuilt on Somnia blockchain using Somnia Data Streams (SDS) for real-time metadata handling. Original: SolCipher Wallet on Solana.
