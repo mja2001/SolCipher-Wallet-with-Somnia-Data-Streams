@@ -1,0 +1,13 @@
+SolCipher-Somnia/
+├── client/                # Next.js frontend
+│   ├── components/        # UI components (FileShare.tsx, FileReceive.tsx, WalletProvider.tsx)
+│   ├── lib/               # Utilities (sds.ts for SDS SDK)
+│   ├── pages/             # Next.js pages
+│   ├── public/            # Static assets
+│   ├── styles/            # CSS
+│   ├── package.json       # Dependencies
+│   └── tsconfig.json      # TypeScript config
+├── .gitignore             # Ignore node_modules, etc.
+├── LICENSE                # MIT license
+├── README.md              # Project docs
+└── vercel.json            # Optional for deployment
